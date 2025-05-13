@@ -11,7 +11,7 @@ I'm a **Front-End Developer** with over 3 years of experience building modern, u
 
 ---
 
-### 🧩 Selected Client Work
+### 🧩 Selected Work
 
 Some of the projects I've recently worked on:
 
@@ -24,9 +24,8 @@ Some of the projects I've recently worked on:
 ---
 
 ### 📫 Let's Connect
-- 📬 Email: [your-email@example.com]
-- 💼 Portfolio: [your-portfolio-link.com]
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Twitter](https://twitter.com/your-handle)
+- 📬 Email: arandamatias849@gmail.com
+- 💼 Portfolio: matiasarandadev.com
+- [LinkedIn](https://www.linkedin.com/in/matias-aranda/)
 
 Thanks for stopping by!
