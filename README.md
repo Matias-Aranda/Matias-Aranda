@@ -30,7 +30,7 @@ Some of the projects I've recently worked on:
 
 ### 📫 Let's Connect
 - 📬 Email: arandamatias849@gmail.com
-- 💼 Portfolio: matiasarandadev.com
+- 💼 Portfolio: [matiasarandadev.com](matiasarandadev.com)
 - [LinkedIn](https://www.linkedin.com/in/matias-aranda/)
 
 Thanks for stopping by!
