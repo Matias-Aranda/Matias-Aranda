@@ -20,13 +20,13 @@ I'm a **Front-End Developer** with over 3 years of experience building modern, u
 
 Some of the projects I've recently worked on:
 
-- 🏡 [**Real Estate Agency Website**](https://example.com)  
+- 🏡 [**Real Estate Agency Website**](https://ricardo-pszegotski-inmuebles.netlify.app/properties)  
   A modern, responsive site for showcasing property listings and driving client inquiries.
 
-- 🔒 [**Online Safety Landing Page**](https://example.com)  
+- 🔒 [**Online Safety Landing Page**](https://navegar-con-armadura.netlify.app)  
   An informative and accessible page promoting internet and social media safety best practices.
 
-- 🎬 [**Movie Watchlist App**](https://example.com)  
+- 🎬 [**Movie Watchlist App**](https://aranda-movie-watchlist.netlify.app)  
   A dynamic app using the OMDb API that lets users search for any movie and add it to a personalized watchlist.
 
 > Curious about the tech stack or my specific contributions? I’d be happy to chat!
