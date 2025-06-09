@@ -2,6 +2,8 @@
 
 I'm a **Front-End Developer** with over 3 years of experience building modern, user-focused web applications using **Next.js**, **React**, **Tailwind CSS**, and **TypeScript**.
 
+🌐 You can check out my work at [**matiasarandadev.com**](https://matiasarandadev.com)
+
 ---
 
 ### 🛠 Tech Stack
