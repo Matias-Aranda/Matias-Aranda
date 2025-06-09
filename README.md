@@ -20,17 +20,23 @@ I'm a **Front-End Developer** with over 3 years of experience building modern, u
 
 Some of the projects I've recently worked on:
 
-- 🎸 [Guitar Shop Website](https://example.com)
-- 🛒 [E-commerce Platform](https://example.com)
-- 📈 [Analytics Dashboard](https://example.com)
+- 🏡 [**Real Estate Agency Website**](https://example.com)  
+  A modern, responsive site for showcasing property listings and driving client inquiries.
 
-> Want a closer look or have questions about my role in these projects? Feel free to reach out!
+- 🔒 [**Online Safety Landing Page**](https://example.com)  
+  An informative and accessible page promoting internet and social media safety best practices.
+
+- 🎬 [**Movie Watchlist App**](https://example.com)  
+  A dynamic app using the OMDb API that lets users search for any movie and add it to a personalized watchlist.
+
+> Curious about the tech stack or my specific contributions? I’d be happy to chat!
 
 ---
 
-### 📫 Let's Connect
-- 📬 Email: arandamatias849@gmail.com
-- 💼 Portfolio: [matiasarandadev.com](matiasarandadev.com)
-- [LinkedIn](https://www.linkedin.com/in/matias-aranda/)
+## 📫 Let's Connect
+
+- 📬 Email: arandamatias849@gmail.com  
+- 💼 Portfolio: [matiasarandadev.com](https://matiasarandadev.com)  
+- 👔 LinkedIn: [Matias Aranda](https://www.linkedin.com/in/matias-aranda/)
 
 Thanks for stopping by!
