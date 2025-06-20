@@ -23,7 +23,8 @@ I'm a **Front-End Developer** with over 3 years of experience building modern, u
 Some of the projects I've recently worked on:
 
 - 🏎️ [**Simracing Coach Website (Work In Progress)**](https://andres-marin-website.vercel.app/)  
-  Fast, modern and fully responsive website for a professional SimRacing coach. This project is currently a work in progress and under active development. 
+  Fast, modern and fully responsive website for a professional SimRacing coach.
+  This project is currently a work in progress and under active development. 
 
 - 🏡 [**Real Estate Agency Website**](https://ricardo-pszegotski-inmuebles.netlify.app/properties)  
   A modern, responsive site for showcasing property listings and driving client inquiries.
